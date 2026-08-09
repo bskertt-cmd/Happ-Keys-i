@@ -1,11 +1,11 @@
 #profile-title: Atlantic Vpn
 #profile-update-interval: 1
-#announce: Свободный интернет. С любовью,Atlantic Vpn. LTE на глушилках.
+#announce: Свободный интернет. С любовью,Atlantic Vpn. LTE сервера использовать при глушилках.
 #subscription-userinfo: upload=199385937286; download=0; total=0; expire=1849392000
 
-vless://60ba3369-9a78-40fe-98c3-233a6f107043@135.106.140.23:443?encryption=none&security=tls&sni=qwesd.rutendingaltos.top&fp=edge&type=xhttp&mode=auto&path=%2Fassets%2Fbuild%2F_app%2Fimmutable%2Fchunks%2Fstream-one%2F#🇷🇺Антиглушилка №1
-vless://78c407f6-3f20-426e-94ea-7227e760c180@94.103.3.119:443?encryption=none&security=reality&sni=id.vk.com&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&mode=gun&authority=&serviceName=vless-grpc-reality#🇷🇺Антиглушилка №2
-vless://b1b3e430-ff52-44b8-b95d-27fa580fbc4f@188.120.235.122:443?encryption=none&security=reality&sni=id.vk.com&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&mode=gun&authority=&serviceName=vless-grpc-reality#🇷🇺Антиглушилка №3
+vless://60ba3369-9a78-40fe-98c3-233a6f107043@135.106.140.23:443?encryption=none&security=tls&sni=qwesd.rutendingaltos.top&fp=edge&type=xhttp&mode=auto&path=%2Fassets%2Fbuild%2F_app%2Fimmutable%2Fchunks%2Fstream-one%2F#[LTE]🇷🇺Антиглушилка №1
+vless://78c407f6-3f20-426e-94ea-7227e760c180@94.103.3.119:443?encryption=none&security=reality&sni=id.vk.com&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&mode=gun&authority=&serviceName=vless-grpc-reality#[LTE]🇷🇺Антиглушилка №2
+vless://b1b3e430-ff52-44b8-b95d-27fa580fbc4f@188.120.235.122:443?encryption=none&security=reality&sni=id.vk.com&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&mode=gun&authority=&serviceName=vless-grpc-reality#[LTE]🇷🇺Антиглушилка №3
 hysteria2://22j0d00lev7mq0yv@nrealistic.nn-foto.ru:1935?security=tls&fm=%7B%22udp%22%3A%5B%7B%22settings%22%3A%7B%22password%22%3A%22lhfl2z9mjngb7csh%22%7D%2C%22type%22%3A%22salamander%22%7D%5D%7D&sni=nrealistic.nn-foto.ru#🇳🇱Netherlands
 hysteria2://0f2dc4af-951f-4690-922e-07c6e8bab26a@178.253.55.89:443?security=tls&fm=%7B%7D&sni=nl-one.quiet-rogue.site#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands
 vless://501b6afa-f955-473f-8440-1010110a1548@78.17.192.173:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=images.apple.com&fp=edge&pbk=NP5_ymQeqYr_EP7aAPIl3YBRghX60zLq6m74Ht4bFUI&sid=2c043ed8&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands
