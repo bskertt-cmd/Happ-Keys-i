@@ -1,6 +1,6 @@
 #profile-title: Atlantic Vpn
 #profile-update-interval: 1
-#announce: Свободный интернет. С любовью,Atlantic Vpn. LTE сервера использовать при глушилках.
+#announce: Свободный интернет. LTE сервера использовать при глушилках. С любовью,Atlantic VPN.
 #subscription-userinfo: upload=199385937286; download=0; total=0; expire=1849392000
 
 vless://60ba3369-9a78-40fe-98c3-233a6f107043@135.106.140.23:443?encryption=none&security=tls&sni=qwesd.rutendingaltos.top&fp=edge&type=xhttp&mode=auto&path=%2Fassets%2Fbuild%2F_app%2Fimmutable%2Fchunks%2Fstream-one%2F#[LTE]🇷🇺Антиглушилка №1
