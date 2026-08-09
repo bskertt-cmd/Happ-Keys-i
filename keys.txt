@@ -1,7 +1,7 @@
 #profile-title: Atlantic Vpn
 #profile-update-interval: 1
 #announce: Свободный интернет. С любовью,Atlantic Vpn.
-#subscription-userinfo: upload=199385937286; download=0; total=0; expire=253370764800
+#subscription-userinfo: upload=199385937286; download=0; total=0; expire=1849392000
 
 hysteria2://22j0d00lev7mq0yv@nrealistic.nn-foto.ru:1935?security=tls&fm=%7B%22udp%22%3A%5B%7B%22settings%22%3A%7B%22password%22%3A%22lhfl2z9mjngb7csh%22%7D%2C%22type%22%3A%22salamander%22%7D%5D%7D&sni=nrealistic.nn-foto.ru#🇳🇱Netherlands
 hysteria2://0f2dc4af-951f-4690-922e-07c6e8bab26a@178.253.55.89:443?security=tls&fm=%7B%7D&sni=nl-one.quiet-rogue.site#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands
