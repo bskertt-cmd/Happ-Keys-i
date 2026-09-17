@@ -1,5 +1,5 @@
 #profile-title: Zeno Vpn
-#announce: Подписка активна до 09.18.2031
+#announce: Подписка активна до 18.09.2031
 #subscription-userinfo: upload=0; download=0; total=0; expire=1947456000
 
 vless://326b5366-01ac-4318-a457-112284b868dc@slark.sh8.no:443?encryption=none&security=reality&sni=slark.sh8.no&fp=firefox&pbk=H5490DiLcL9gCggaPCJbiI70D3feZlj0rhwAXOCMEUE&sid=6ba85179e30d&type=xhttp&mode=stream-one&host=slark.sh8.no&path=%2Fxhttp#🇪🇺⚡Youtube без рекламы
